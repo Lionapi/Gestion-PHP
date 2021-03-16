@@ -4,8 +4,8 @@ class Database
    // database credentials
     private $host = "localhost";
     private $db_name = "appgestcom";
-    private $username = "Franck-Lionel";
-    private $password = "Franck-Lionel007";
+    private $username = "user";
+    private $password = "password";
     public $conn;
 
     // database connection
